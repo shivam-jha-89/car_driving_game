@@ -1,0 +1,50 @@
+{
+  "version": "eae39fa4e6215bbd",
+  "totalBytes": 20818002,
+  "assets": [
+    {
+      "path": "great_mountain/landscape_mountain_optimized.glb",
+      "size": 9398084
+    },
+    {
+      "path": "roads/textures/Grass02_baseColor.jpeg",
+      "size": 232651
+    },
+    {
+      "path": "roads/textures/Grass02_metallicRoughness.png",
+      "size": 367723
+    },
+    {
+      "path": "roads/textures/Grass02_normal.png",
+      "size": 2819287
+    },
+    {
+      "path": "roads/textures/RoadLines_baseColor.jpeg",
+      "size": 243570
+    },
+    {
+      "path": "roads/textures/RoadLines_metallicRoughness.png",
+      "size": 1061532
+    },
+    {
+      "path": "roads/textures/RoadLines_normal.png",
+      "size": 2757884
+    },
+    {
+      "path": "roads/textures/Sidewalk01_baseColor.jpeg",
+      "size": 233280
+    },
+    {
+      "path": "roads/textures/Sidewalk01_metallicRoughness.png",
+      "size": 282171
+    },
+    {
+      "path": "roads/textures/Sidewalk01_normal.png",
+      "size": 1797896
+    },
+    {
+      "path": "tree/pine_tree_1.glb",
+      "size": 1623924
+    }
+  ]
+}
